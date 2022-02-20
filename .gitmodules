@@ -1,0 +1,3 @@
+[submodule "hashpipe"]
+	path = hashpipe
+	url = ./external/hashpipe/
